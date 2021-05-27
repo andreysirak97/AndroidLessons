@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson1</string>
+    <string name="Button">Кнопка</string>
+    <string name="Text">Текст</string>
+    <string name="textpersonname">TextPersonName</string>
+    <string name="phone">Phone</string>
+    <string name="number">Number</string>
+    <string name="text_password">Text Password</string>
+    <string name="e_mail_adress">E-mail adress</string>
+    <string name="next_view">К следующей странице</string>
+</resources>
